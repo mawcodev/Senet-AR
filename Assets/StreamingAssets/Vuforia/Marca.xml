@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Tablero" size="6.000000 12.000000" />
+    <ImageTarget name="ojo" size="6.000000 8.338762" />
+    <ImageTarget name="joker" size="6.000000 8.561872" />
+    <ImageTarget name="tresVerdades" size="6.000000 3.761194" />
+    <ImageTarget name="ojoHorus" size="6.000000 4.438461" />
+  </Tracking>
+</QCARConfig>

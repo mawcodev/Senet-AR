@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 8ba2348ac2b5b2447a449d9c6fb18c51
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - video: {instanceID: 0}
+  - libro: {instanceID: 0}
+  - rawImage: {instanceID: 0}
+  - skipIntro: {instanceID: 0}
+  - image: {instanceID: 0}
+  - libro_anim: {instanceID: 0}
+  - particle_system_object: {instanceID: 0}
+  - particle_system: {instanceID: 0}
+  - ui: {instanceID: 0}
+  - CanvasAyudaInicial: {fileID: 9014280182759228206, guid: 7a01743cbf4f06342be7c2d76b724329,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
